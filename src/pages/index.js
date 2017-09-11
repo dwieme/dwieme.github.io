@@ -1,3 +1,8 @@
-import React from "react"
+import React from 'react';
+import "normalize.css";
 
-export default () => <div>Hello world!</div>
+import Hero from '../components/hero';
+
+export default () => (
+    <Hero />
+);
