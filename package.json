@@ -11,6 +11,9 @@
   "dependencies": {
     "gatsby": "^1.9.27",
     "gatsby-link": "^1.6.16",
+    "gatsby-plugin-sass": "^1.0.12",
+    "gatsby-plugin-typography": "^1.7.9",
+    "normalize.css": "^7.0.0"
   },
   "repository": {
     "type": "git",
