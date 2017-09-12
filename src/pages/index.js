@@ -1,8 +1,12 @@
 import React from 'react';
-import "normalize.css";
+import 'normalize.css';
 
 import Hero from '../components/hero';
+import Avatar from '../components/avatar';
 
 export default () => (
-    <Hero />
+    <div>
+        <Hero />
+        <Avatar />
+    </div>
 );
